@@ -16,7 +16,7 @@ There is an active low reset on the MCP, which a logic low is needed to reset th
 
 There are 2 interrupt pins on the MCP.
 
-There are 16 IO pins on a single MCP, which are GPA0 to GPA7, GPB0 to GPB7. The GPA0 to GPA7 are IO pins 0 to 7 and GPB0 to GPB7 are IO pins 8 to 15.
+There are 16 IO pins on a single MCP, which are A0 to A7, B0 to B7. The A0 to A7 are IO pins 0 to 7 and B0 to B7 are IO pins 8 to 15.
 
 The AB1 for MCP1, the bottom is pin GPIO1A, the top is pin GPIO1B.
 
@@ -24,12 +24,10 @@ Note that the SDA/SCL, the SDA occupies the left column and the SCL occupies the
 
 For this PCB, we will use the CH340 USB to TTL converter for power. The left of the PCB is 0V.
 
-For this coding project, we will use the Adafruit_MCP23017 library, which is available on the Arduino IDE.
+For this coding project, we will use the Adafruit_MCP23017 library, which is available on the Arduino IDE. There are 2 Arduino projects.
 
-For the LED barf circuit, we will blink the LEDs with blink without delay, using the millis() function.
+For the LED bar circuit, we will blink the LEDs with blink without delay, using the millis() function. We will need 8 of them. It is used to check whether the MCP23017 are working.
 
-Each piano circuit consist of 12 keys C to B sharp. We will need 8 of them to create C0 to B7.
-
-Please upload the Arduino code
+For the piano circuit, each PCB consists of 12 keys C to B sharp. We will need 8 of them to create C0 to B7.
 
 Once again, I would like to thank JLCPCB for sponsoring this project. Please order your PCB at https://jlcpcb.com/RAT.
