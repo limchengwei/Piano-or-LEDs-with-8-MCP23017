@@ -28,6 +28,6 @@ For this coding project, we will use the Adafruit_MCP23017 library, which is ava
 
 For the LED bar circuit, we will blink the LEDs with blink without delay, using the millis() function. We will need 8 of them. It is used to check whether the MCP23017 are working.
 
-For the piano circuit, each PCB consists of 12 keys C to B sharp. We will need 8 of them to create C0 to B7.
+For the piano circuit, each PCB consists of 12 keys C to B. We will need 8 of them to create C1 to B7.
 
 Once again, I would like to thank JLCPCB for sponsoring this project. Please order your PCB at https://jlcpcb.com/RAT.
