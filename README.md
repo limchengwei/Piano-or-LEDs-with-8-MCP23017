@@ -1,6 +1,6 @@
 # Piano-or-LEDs-with-8-MCP23017
 
-This Printed Circuit Board project is sponsored by JLCPCB. Please visit https://jlcpcb.com/RAT to order your PCB.
+This Printed Circuit Board project is sponsored by JLCPCB. Please visit https://jlcpcb.com/cgh to order your PCB.
 
 The MCP23017 PCB consists of 8 16-Bit I/O Expander with Serial Interface MCP23017 chips.
 
@@ -32,4 +32,4 @@ For the piano circuit, each PCB consists of 12 touch sensor keys C to B. We will
 
 Please visit https://www.hackster.io/limchengwei/piano-or-leds-8-mcp23017-pcb-by-jlcpcb-c427e7 for the project.
 
-Once again, I would like to thank JLCPCB for sponsoring this project. Please order your PCB at https://jlcpcb.com/RAT.
+Once again, I would like to thank JLCPCB for sponsoring this project. Please order your PCB at https://jlcpcb.com/cgh.
