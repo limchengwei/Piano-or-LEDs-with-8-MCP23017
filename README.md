@@ -22,7 +22,7 @@ The AB1 for MCP1, the bottom is pin GPIO1A, the top is pin GPIO1B.
 
 Note that the SDA/SCL, the SDA occupies the left column and the SCL occupies the right column.
 
-For this PCB, we will use the CH340 USB to TTL converter for power. The left of the PCB is 0V.
+For this PCB, we will use the CH340 USB to TTL converter for power.
 
 For this coding project, we will use the Adafruit_MCP23017 library, which is available on the Arduino IDE. There are 2 Arduino projects.
 
