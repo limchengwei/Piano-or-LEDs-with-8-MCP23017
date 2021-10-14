@@ -30,4 +30,6 @@ For the LED bar circuit, we will blink the LEDs with blink without delay, using 
 
 For the piano circuit, each PCB consists of 12 touch sensor keys C to B. We will need 8 of them to create C1 to B7.
 
+Please visit https://www.hackster.io/limchengwei/piano-or-leds-8-mcp23017-pcb-by-jlcpcb-c427e7 for the project.
+
 Once again, I would like to thank JLCPCB for sponsoring this project. Please order your PCB at https://jlcpcb.com/RAT.
